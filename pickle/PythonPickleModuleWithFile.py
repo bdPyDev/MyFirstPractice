@@ -1,5 +1,6 @@
 import pickle
 
+# Python pickle module is used for serilize data
 def store_data():
     # Initilizing data to be stored in Database
     abul = {'key': 'abul', 'name': 'abul mama', 'age': 21, 'pay': 4000000}
